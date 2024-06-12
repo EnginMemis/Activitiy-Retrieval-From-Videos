@@ -6,7 +6,6 @@ import numpy as np
 from torch.utils.data.dataloader import DataLoader
 from module import *
 
-    
 class VideoVisionTransformer(nn.Module):
     def __init__(
             self,
