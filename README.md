@@ -1,1 +1,1 @@
-# Activitiy-Retrieval-From-Videos
+# Activity-Retrieval-From-Videos
